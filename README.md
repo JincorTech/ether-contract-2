@@ -1,5 +1,9 @@
 # Ethereum Smart-contract development. Lesson 2
 
+![Jincor logo](https://raw.githubusercontent.com/JincorTech/backend-auth/master/Logo.png)
+
+Baked with <3 by [Jincor](https://ico.jincor.com)
+
 ## Introduction
 
 After we install all dependencies we need to create a new `*.sol` file with custom token’s smart-contract code. As I said in previous lesson I will call my token "JCR".
